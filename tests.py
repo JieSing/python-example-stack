@@ -11,16 +11,10 @@ def test_it():
 	'''
 	
 	s = Stack()
-	assert size = s.size()
+# 	assert size = s.size()
 	s.push(1)
-	assert size = s.size()
+	assert size == 1
 
-	for i in range(100):
-	  s.push(i)
-
-	assert
-	#whos
-
-	raise NotImplementedError('Need to implement a simple test.')
+	
 	
 	
