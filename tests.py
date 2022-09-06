@@ -12,6 +12,7 @@ def test_it():
 	
 	s = Stack()
 	s.push(1)
+	size = s.size()
 	assert size == 1
 
 	
